@@ -1,0 +1,10 @@
+scikit-learn: For building and training machine learning models, as well as preprocessing data.
+pandas: For data manipulation and analysis.
+numpy: For numerical computations and working with arrays.
+joblib: For saving and loading models.
+imbalanced-learn: For dealing with imbalanced datasets, if applicable.
+matplotlib and seaborn: For data visualization.
+pickle: For saving and loading models.
+
+
+Ensure that you have these libraries installed in your environment before running the pipeline. You can install them using pip or conda, depending on your preference and setup.
